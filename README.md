@@ -54,7 +54,7 @@ To play the Bingo Multiclient Game:
 1. Ensure the server is running.
 2. Run the client application for each player.
 3. Follow the prompts to participate in the game.
-4. Enjoy the Bingo gaming experience with friends and family!
+4. Start playing.
 
 ## Contributing
 
