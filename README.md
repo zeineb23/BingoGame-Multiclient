@@ -8,7 +8,7 @@ Welcome to the Bingo Multiclient Game repository! This project implements a Bing
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Setup](#setup)
-- [Running order](#Running order)
+- [Running order](#Running-order)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
