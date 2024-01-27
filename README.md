@@ -14,8 +14,9 @@ Welcome to the Bingo Multiclient Game repository! This project implements a Bing
 - [License](#license)
 
 ## Introduction
+BingoGame-Multiclient offers an engaging multiplayer experience where multiple players can participate in a Bingo game concurrently. The game leverages Java's robust networking capabilities to enable seamless communication between clients and servers.
 
-The Bingo Multiclient Game is designed to provide an interactive Bingo gaming experience for multiple players over a network. It's implemented in Java and utilizes middleware technologies like Remote Method Invocation (RMI) and Remote Procedure Call (RPC) to enable seamless communication between clients and the server.
+Multiple players can run instances of the game on the same machine, with each instance managed through threads and sockets. The game utilizes either the Remote Method Invocation (RMI) or Remote Procedure Call (RPC) middleware for client-server communication, providing flexibility and scalability in multiplayer setups.
 
 ## Features
 
