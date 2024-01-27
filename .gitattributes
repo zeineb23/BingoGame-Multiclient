@@ -1,0 +1,9 @@
+# Java files
+*.java linguist-language=Java
+
+# Maven
+target/
+
+# Gradle
+build/
+.gradle/
