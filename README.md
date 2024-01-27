@@ -8,6 +8,7 @@ Welcome to the Bingo Multiclient Game repository! This project implements a Bing
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Setup](#setup)
+- [Running order](#Running order)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -36,14 +37,21 @@ To set up and run the Bingo Multiclient Game, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Navigate to the `projet-Middleware-RMI` or `projet-Middleware-RPC` folder depending on the middleware implementation you want to use.
-3. Follow the instructions in the respective README files to set up and run the game.
+3. Follow the instructions to run the game.
+
+## *Running order*
+To run the Bingo Multiclient Game, follow this order:
+
+1. Bingo Server: The server application starts first to listen for incoming client connections and provide the necessary services or resources.
+2. Gateway Server: The gateway, which acts as an intermediary between clients and the server, is started next. It manages client connections and facilitates communication between clients and the server.
+3. Bingo Client: Launch one or more Bingo Clients to connect to the server and participate in the game.
 
 ## Usage
 
 To play the Bingo Multiclient Game:
 
 1. Ensure the server is running.
-2. Run the client application on each player's machine.
+2. Run the client application for each player.
 3. Follow the prompts to participate in the game.
 4. Enjoy the Bingo gaming experience with friends and family!
 
